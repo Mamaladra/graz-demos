@@ -1,0 +1,7 @@
+Beispielbilder (CC0 / Public Domain, via rawpixel.com, gefunden über openverse.org) – NICHT Arbeiten des Studios:
+hero.webp  Nagellack-Farben  https://www.rawpixel.com/image/5906601/photo-image-public-domain-art-pink
+g1.webp    Woman getting manicure  https://www.rawpixel.com/image/6036048/photo-image-public-domain-hand-person
+g2.webp    Manicured hand, pink petals  https://www.rawpixel.com/image/3293333/free-photo-image-woman-hands-manicure-flowers-skin
+g3.webp    Home manicure  https://www.rawpixel.com/image/11515820/home-manicure-clear-nail-polish
+g4.webp    Free manicure image  https://www.rawpixel.com/image/5913229/free-manicure-image-public-domain-cc0-photo
+3D: three.js r160 (MIT), lokale Kopie js/three.module.min.js

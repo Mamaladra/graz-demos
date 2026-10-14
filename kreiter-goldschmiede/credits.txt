@@ -1,0 +1,7 @@
+Beispielbilder (CC0 / Public Domain, via rawpixel.com, gefunden über openverse.org) – NICHT Arbeiten der Goldschmiede:
+hero.webp  Free wedding rings  https://www.rawpixel.com/image/5920717/free-wedding-rings-public-domain-cc0
+g1.webp    Ring  https://www.rawpixel.com/image/5906428/ring-free-public-domain-cc0-photo
+g2.webp    Free wedding rings  https://www.rawpixel.com/image/5920586/free-wedding-rings-public-domain-cc0
+g3.webp    Simple elegant gold ring  https://www.rawpixel.com/image/6036031/photo-image-public-domain-gold-fashion
+g4.webp    Two wedding rings  https://www.rawpixel.com/image/5803514/photo-image-public-domain-jewelry
+3D: three.js r160 (MIT), lokale Kopie js/three.module.min.js
